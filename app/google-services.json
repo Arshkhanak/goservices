@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "34544335885",
+    "firebase_url": "https://goservices-e1513.firebaseio.com",
+    "project_id": "goservices-e1513",
+    "storage_bucket": "goservices-e1513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34544335885:android:2790c9cb0b9e03d90fa944",
+        "android_client_info": {
+          "package_name": "com.tecmanic.goservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34544335885-usf9k4e1d01884dmfjkgqrfnjkhcr2m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tecmanic.goservices",
+            "certificate_hash": "ff2888c7881b00635c79bb7d081fa00da674fad0"
+          }
+        },
+        {
+          "client_id": "34544335885-r0sr6h8brcad4kaia978qoaes8n55cqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsYOYRwjVAgVwSwmpZzzku5M2mRHd4EtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34544335885-r0sr6h8brcad4kaia978qoaes8n55cqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
